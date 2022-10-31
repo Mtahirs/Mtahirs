@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mtahirs
 - 👀 I’m interested in personal finance, investing and mental models.
-- 🌱 I’m currently learning javascript and using it to build my website.
+- 🌱 I’m currently learning backend web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: DM on twitter @iamuhammadtahir
 
