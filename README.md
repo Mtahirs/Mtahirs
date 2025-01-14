@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mtahirs
 - 👀 I’m interested in personal finance, investing and mental models.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  a lot
+<!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: DM on twitter @iamuhammadtahir
 
 <!---
